@@ -17,3 +17,8 @@ def color_to_color(color):
 def gray():
     """Get a .NET gray color object. Useful when you need a placeholder color."""
     return Color.Gray
+
+
+def black():
+    """Get a .NET black color object. Useful for things like default text."""
+    return Color.Black
