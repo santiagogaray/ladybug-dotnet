@@ -1,5 +1,5 @@
 Welcome to ladybug-dotnet's documentation!
-===================================
+==========================================
 
 .. toctree::
    :maxdepth: 2
